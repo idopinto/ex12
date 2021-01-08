@@ -3,7 +3,7 @@ def load_words_dict(file_path):
 
 
 def is_valid_path(board, path, words):
-    pass
+    you suck!!
 
 
 def find_length_n_words(n, board, words):
