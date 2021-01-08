@@ -7,5 +7,5 @@ def is_valid_path(board, path, words):
 
 
 def find_length_n_words(n, board, words):
-    nowwwwn
+    nowwwwn y
     pass
