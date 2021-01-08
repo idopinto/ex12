@@ -1,5 +1,5 @@
 def load_words_dict(file_path):
-    pass
+    print("you suck!!!!!!!!")
 
 
 def is_valid_path(board, path, words):
