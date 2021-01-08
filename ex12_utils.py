@@ -2,10 +2,10 @@ def load_words_dict(file_path):
     print("i like banana ")
 
 def is_valid_path(board, path, words):
-    if pinto:
-        return False
+    pass
 
 
 def find_length_n_words(n, board, words):
-    nowwwwn y
+    if not pinto:
+        return git
     pass
